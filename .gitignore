@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+results_cleanbot1/
+results_cleanbot2/
+*.pt
+*.bin
