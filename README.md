@@ -2,7 +2,7 @@
 
 This repository contains replication code for the Cleanbot 1 and Cleanbot 2 classifiers used in Kernell and Noh, *“The AI Referee: How Online Interventions Shape Incivility and User Engagement in News Discussions”*.
 
-The code reproduces the preprocessing, model specification, training procedure, and evaluation metrics reported in the paper, including the confusion matrices.
+The code reproduces the preprocessing, model specification, training procedure, and evaluation metrics reported in the paper.
 
 ### Model
 - Transformer: KcELECTRA-base-v2022  
